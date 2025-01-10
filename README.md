@@ -24,9 +24,10 @@ Welcome to my GitHub profile! I'm passionate about data analysis, visualization,
 - Git | JIRA | Excel
 
 ## 🚀 Featured Projects
-- [Churn Analysis](https://github.com/yourrepo) - Identified customers at risk of churn using SQL and Power BI.
+<!-- - [Churn Analysis](https://github.com/yourrepo) - Identified customers at risk of churn using SQL and Power BI.
 - [Movie Correlation Analysis](https://github.com/HimaPanchal/HimaPanchal.github.io/blob/main/MoviesCorrelation_python.ipynb) - Explored relationships between movie features using Python.
-- [Credit Card Portfolio Insights](https://github.com/yourrepo) - Optimized portfolio performance using Power BI and SQL.
+- [Credit Card Portfolio Insights](https://github.com/yourrepo) - Optimized portfolio performance using Power BI and SQL. -->
+-[Movie Correlation Analysis](https://github.com/HimaPanchal/HimaPanchal.github.io/blob/main/MoviesCorrelation_python.ipynb) - Explored relationships between movie features using Python.
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/hima-panchal/))
