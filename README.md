@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile! I'm passionate about data analysis, visualization, and making sense of numbers.
 
 ## 🔧 Technologies & Tools
-- Python | SQL | Power BI | Tableau
+- Python | SQL | Power BI | Tableau | Excel
 - Data Analysis | Machine Learning
-- Git | JIRA | Excel
+- Git | JIRA | SharePoint
 
 ## 🚀 Featured Projects
 <!-- - [Churn Analysis](https://github.com/yourrepo) - Identified customers at risk of churn using SQL and Power BI.
