@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm obsessed with data science, love data analysis
 - [Movie Correlation Analysis](https://github.com/HimaPanchal/HimaPanchal.github.io/blob/main/MoviesCorrelation_python.ipynb) - Explored relationships between movie features using Python.
 - [Credit Card Portfolio Insights](https://github.com/yourrepo) - Optimized portfolio performance using Power BI and SQL. -->
 
-[EDA SQL Project - Free to Paid SignUp Rate Analytics](https://github.com/HimaPanchal/Free-to-Paid-Signup-Analytics) - Calculating the fraction of students who convert to paying ones after starting a course in MySQL WorkBench
+[SQL EDA Project - Free to Paid SignUp Rate Analytics](https://github.com/HimaPanchal/Free-to-Paid-Signup-Analytics) - Calculating the fraction of students who convert to paying ones after starting a course in MySQL WorkBench
 
 [Python - weather-data-insights](https://github.com/HimaPanchal/PythonProjects/blob/main/Weather%20Data%20Analysis.ipynb) - This project highlights several critical aspects of Python, including: Data Manipulation, Data Visualization, Exploratory Data Analysis (EDA), Correlation Analysis, Feature Engineering. Insights from Historical Weather Trends.
 
