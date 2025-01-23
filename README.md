@@ -35,6 +35,8 @@ Welcome to my GitHub profile! I'm obsessed with data science, love data analysis
 [Python-Movie Correlation Analysis](https://github.com/HimaPanchal/HimaPanchal.github.io/blob/main/MoviesCorrelation_python.ipynb) - Explored relationships between movie features using Python.
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=HimaPanchal&color=blue)
+
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/hima-panchal/)
 - [Email](mailto:hima77panchal@gmail.com)
