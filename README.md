@@ -34,6 +34,7 @@ Welcome to my GitHub profile! I'm obsessed with data science, love data analysis
 
 [Python-Movie Correlation Analysis](https://github.com/HimaPanchal/HimaPanchal.github.io/blob/main/MoviesCorrelation_python.ipynb) - Explored relationships between movie features using Python.
 
+[Assessing Campaign Performance Using Chi-Square Test For Independence](https://github.com/HimaPanchal/Chi-Square-Test) - To compare the sign-up rates of the two groups of Mailer in a grocery store, we used the Chi-Square Test for Independence.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HimaPanchal&color=blue)
 
