@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Hima Panchal!
 
-Welcome to my GitHub profile! I'm obsessed with data science, love data analysis, visualizing data, and making sense of numbers.
+Welcome to my GitHub profile! I am a Data Analyst and Machine Learning enthusiast who is obsessed with Data Science and love to solve business problems with data science approach! 
+
 
 ## 🔧 Technologies & Tools
 - Python | SQL | Power BI | Tableau | Excel
