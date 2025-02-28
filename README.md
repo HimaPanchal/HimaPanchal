@@ -22,9 +22,7 @@ Welcome to my GitHub profile ✨! I am a Data Analyst and Machine Learning enthu
 ## 🔧 Technologies & Tools
 - Python | SQL | Power BI | Tableau | Excel
 - Data Analysis | Machine Learning
-- Git | JIRA | SharePoint | Confluence
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimaPanchal&layout=compact&langs_count=5)
-
+- Git | JIRA | SharePoint | ConfluencE
 
 ## 🚀 Featured Projects
 <!-- - [Churn Analysis](https://github.com/yourrepo) - Identified customers at risk of churn using SQL and Power BI.
